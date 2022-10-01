@@ -6,7 +6,6 @@ export default function Favoritos() {
 
   const { saved, unSaveImg } = useImage();
 
-  console.log("desde favoritos" + saved);
 
   return (
     <>
